@@ -17,7 +17,7 @@ img{
 .main-div{
     height: 563px;
     width:100%;
-    background-image: url(baroque-resources/girl-bg.webp);
+    background-image: url(/girl-bg.webp);
     background-repeat: no-repeat;
 }
 .main-div .button1{
@@ -104,27 +104,27 @@ nav{
     height: 600px;
     width: 450px;
     display: inline-block;
-    background-image: url(baroque-resources/girl1.webp);
+    background-image: url(/girl1.webp);
 }
 .container .div2{
     height: 600px;
     width: 450px;
     display: inline-block;
-    background-image: url(baroque-resources/girl2.webp);
+    background-image: url(/girl2.webp);
     background-color: yellowgreen;
 }
 .container .div3{
     height: 600px;
     width: 450px;
     display: inline-block;
-    background-image: url(baroque-resources/girl3.webp);
+    background-image: url(/girl3.webp);
     background-color: yellowgreen;
 }
 .container .div4{
     height: 600px;
     width: 450px;
     display: inline-block;
-    background-image: url(baroque-resources/girl4.webp);
+    background-image: url(/girl4.webp);
 }
 .container .button1{
     height: 50px;
